@@ -4,5 +4,5 @@ I am an aspiring Physicist⚛️ and Software Engineer👨‍💻
 
 I am currently preparing for JEE 2024
 
-I am interested in Open source, Quantum Computing and Embedded systems
+I am interested in Open source, Quantum Computing and Embedded systems (Basically **Everything** related to Physics and Computers) 
 though I am only a beginner in programming.
