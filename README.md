@@ -1,6 +1,6 @@
 Hi 👋 , I am Vinayak Joshi from India🇮🇳
 
-I am an aspiring Physicist⚛️ and Software Engineer👨‍💻
+I am an aspiring Physicist⚛️, mathematician and Software Engineer👨‍💻
 
 I am currently preparing for JEE 2024
 
