@@ -1,9 +1,21 @@
-Hi 👋 , I am Vinayak Joshi from India🇮🇳
+```zsh
+> neofetch
+```
 
-I'm currently a freshman at vit vellore
+<img align="left" src="https://i.ytimg.com/vi/N-TV_6eIDxw/hqdefault.jpg" alt="aurora borealis" width="320" /> 
 
-I love Science and Technology and want to give my contribution to the world, which is one of the reasons i made this account.
-
-I'm interested in competitive programming, linux stuff, WebDev and a lot more things, though I'm a beginner in most of them.
+```csharp
+anordinaryusername@github
+-------------------------
+OS: Windows 11 with WSL Ubuntu version 2
+Pronouns: He/Him
+Location: Vellore, India
+Languages: JavaScript,
+           HTML, CSS, CPP , Python
+Learning: React, SQL, C
+Hobbies: DSA, Trading, Music, Watching shows/movies/anime, travelling
+```
+<p align="left">
+</p>
 
 [![Vinayak's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vinayak-Joshi15)](https://github.com/anuraghazra/github-readme-stats)
