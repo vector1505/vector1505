@@ -11,10 +11,11 @@ OS: Windows 11 with WSL Ubuntu version 2
 Pronouns: He/Him
 Location: Vellore, India
 Currently: Freshman at VIT Vellore
+Frameworks/Libraries: React
 Languages: JavaScript,
            HTML, CSS, CPP , Python
-Learning: React, SQL, C
-Hobbies: DSA, Trading, Music, Watching shows/movies/anime, travelling
+Learning: NodeJS,MongoDB,Express, SQL, C
+Hobbies: DSA, Working out, Music, Watching shows/movies/anime, Studying random stuff, travelling
 ```
 
 
