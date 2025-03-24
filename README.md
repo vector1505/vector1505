@@ -13,7 +13,7 @@ Location: Vellore, India
 Currently: Freshman at VIT Vellore
 Frameworks/Libraries: React
 Languages: JavaScript,
-           HTML, CSS, CPP , Python
+           HTML, CSS, CPP , Python, LaTex
 Learning: NodeJS,MongoDB,Express, SQL, C
 Hobbies: DSA, Working out, Music, Watching shows/movies/anime, Studying random stuff, travelling
 ```
