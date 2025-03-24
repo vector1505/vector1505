@@ -15,7 +15,7 @@ Frameworks/Libraries: React
 Languages: JavaScript,
            HTML, CSS, CPP , Python, LaTex
 Learning: NodeJS,MongoDB,Express, SQL, C
-Hobbies: DSA, Working out, Music, Watching shows/movies/anime, Studying random stuff, travelling
+Hobbies: CC, Working out, listening to Music, Watching shows/movies/anime, Studying random stuff, travelling
 ```
 
 
