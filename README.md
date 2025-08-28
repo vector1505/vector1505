@@ -20,4 +20,4 @@ Hobbies: CC, Working out, listening to Music, Watching shows/movies/anime, Study
 
 
 
-![Vinayak's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vinayak-Joshi15&show_icons=true&theme=radical)
+![Vinayak's GitHub stats](https://github-readme-stats.vercel.app/api?username=vector1505&show_icons=true&theme=radical)
