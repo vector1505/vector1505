@@ -21,7 +21,7 @@ Hobbies: CC, Working out, listening to Music, Watching shows/movies/anime, Study
 
 
 <h1 align="center">Hi 👋, I'm Vector</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate developer and researcher from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vector1505&label=Profile%20views&color=0e75b6&style=flat" alt="vector1505" /> </p>
 
