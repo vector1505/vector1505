@@ -7,14 +7,10 @@
 ```csharp
 anordinaryusername@github
 -------------------------
-OS: Windows 11 with WSL Ubuntu version 2
+OS: Ubuntu and windows 11
 Pronouns: He/Him
 Location: Vellore, India
-Currently: Freshman at VIT Vellore
-Frameworks/Libraries: React
-Languages: JavaScript,
-           HTML, CSS, CPP , Python, LaTex
-Learning: NodeJS,MongoDB,Express, SQL, C
+Currently: Sophomore at VIT Vellore
 Hobbies: CC, Working out, listening to Music, Watching shows/movies/anime, Studying random stuff, travelling
 ```
 
