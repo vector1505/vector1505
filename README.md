@@ -2,20 +2,6 @@
 > neofetch
 ```
 
-<img align="left" src="https://i.ytimg.com/vi/N-TV_6eIDxw/hqdefault.jpg" alt="aurora borealis" width="320" /> 
-
-```csharp
-anordinaryusername@github
--------------------------
-OS: Ubuntu and windows 11
-Pronouns: He/Him
-Location: Vellore, India
-Currently: Sophomore at VIT Vellore
-Hobbies: CC, Working out, listening to Music, Watching shows/movies/anime, Studying random stuff, travelling
-```
-
-
-
 <h1 align="center">Hi 👋, I'm Vinayak Joshi/Vector</h1>
 <h3 align="center">A passionate developer and researcher from India</h3>
 
